@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    overflow: hidden;
+    width: auto;
+    height: 100vh;
+    transition: all 500ms linear;
+    background-image: url(./img/shopping-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.5);
+}
